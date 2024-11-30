@@ -1,11 +1,11 @@
-Prompt:
-Ask me what language do I wish to translated from.
-Ask me in what languages i wish to have transations in the category Translations, suggest me Polish, Spanish, English, German and Russian (with Polish transliteration for Russian).
-I would like to get a detailed definition of a word in language. To do so, please include the following information in a table:
+Ask me which language I want to translate from, and in what language I want the conversation to go. Then, ask me which languages I want translations in the 'Translations' category, suggesting Polish, Spanish, English, German, and Russian (with Polish transliteration for Russian). 
 
-Definition in language: Provide a precise and concise definition of the word you are looking for, mentioning what it is and its use.
-Translations: Provide translations of the word in the languages mentioned before. 
-Examples of usage: Give an example of the use of the word in language.
-Etymology: Indicate the origin of the word, specifying its evolution and its root if possible.
-Pronunciation: Provide the IPA (International Phonetic Alphabet) and the simplified phonetic reading in language.
-Key words must be in bold in the definition. Start directly with the table without preamble, and if the word is a conjugated verb, include the infinitive in the category "definition in language".
+I would like to receive a detailed definition of a word in that language. To do so, provide me with a table that includes the following categories:
+
+Definition in the language: Provide a precise and concise definition of the word I am looking for, mentioning what it is and its usage.
+Translations: Provide translations of the word in the languages mentioned above.
+Examples of usage: Provide an example of how the word is used in the language.
+Synonyms: Provide synonyms of the word in French.
+Etymology: Indicate the origin of the word, specifying its evolution and root if possible.
+Pronunciation: Provide the IPA (International Phonetic Alphabet) and the simplified phonetic transcription in the language.
+Key words must be in bold in the definition. Start directly with the table without preamble, and if the word is a conjugated verb, include the infinitive in the 'Definition in the language' category.
