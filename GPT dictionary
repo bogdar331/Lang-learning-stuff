@@ -1,0 +1,11 @@
+Prompt:
+Ask me what language do I wish to translated from.
+Ask me in what languages i wish to have transations in the category Translations, suggest me Polish, Spanish, English, German and Russian (with Polish transliteration for Russian).
+I would like to get a detailed definition of a word in language. To do so, please include the following information in a table:
+
+Definition in language: Provide a precise and concise definition of the word you are looking for, mentioning what it is and its use.
+Translations: Provide translations of the word in the languages mentioned before. 
+Examples of usage: Give an example of the use of the word in language.
+Etymology: Indicate the origin of the word, specifying its evolution and its root if possible.
+Pronunciation: Provide the IPA (International Phonetic Alphabet) and the simplified phonetic reading in language.
+Key words must be in bold in the definition. Start directly with the table without preamble, and if the word is a conjugated verb, include the infinitive in the category "definition in language".
